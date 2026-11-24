@@ -1,0 +1,14 @@
+[here]
+label = "Intel examples"
+location = "examples"
+about = "Standalone Go programs accompanying the manual. Each runs independently from this module directory."
+
+[where.example-catalog]
+path = "readme.md"
+about = "Choose a program by task and find its run command and walkthrough."
+
+[howto.download-intel]
+run = "go mod download github.com/qlustra/intel"
+cwd = "."
+about = "Set up a fresh examples checkout with Go 1.27 or newer. The pinned Intel v1.0.0 must be available to run against the public release."
+see = ["readme.md", "go.mod"]

@@ -1,0 +1,16 @@
+[here]
+label = "Intel Docs"
+location = "intel-docs"
+about = "Usage documentation and runnable examples for Intel, the Go reflection library. The library implementation lives in a separate repository."
+
+[where.guarantees]
+path = "docs/guarantees.md"
+about = "Draft v1 guarantees: what callers can rely on at each layer and what a successful check does not imply."
+
+[where.example-programs]
+path = "docs/examples/"
+about = "Browse the standalone program directories in the examples Go module."
+
+[where.example-programs.browse]
+depth = 1
+files = false

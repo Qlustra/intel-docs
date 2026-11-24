@@ -1,0 +1,12 @@
+[here]
+label = "Intel usage manual"
+location = "manual"
+about = "Learn Intel in layer order: inspection, capture and live values, rules, then definitions and compilation."
+
+[where.reading-order]
+path = "readme.md"
+about = "Start here to choose a layer and follow the manual in order."
+
+[where.reference]
+path = "reference.md"
+about = "Choose a package entry point by task and learn which outcome to check. Use go doc for version-specific API contracts."

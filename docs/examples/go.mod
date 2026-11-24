@@ -1,4 +1,4 @@
-module github.com/qlustra/intel-workshop/examples
+module github.com/qlustra/intel-docs/docs/examples
 
 go 1.27
 

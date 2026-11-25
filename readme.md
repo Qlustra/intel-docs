@@ -56,3 +56,7 @@ The manual and examples target Intel `v1.0.0`; the v1 guarantees are still a dra
 - [Example bundle](docs/examples/readme.md)
 - [Draft v1 guarantees](docs/guarantees.md)
 - [Intel library source](https://github.com/Qlustra/intel)
+
+## License
+
+The documentation and examples are licensed under the [Apache License 2.0](LICENSE).

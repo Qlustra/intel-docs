@@ -1,6 +1,6 @@
 # Intel — v1 guarantees
 
-This draft describes what a caller can rely on at each layer of the
+This document describes what a caller can rely on at each layer of the
 architecture, and what a successful check does not imply.
 Intel supplies checked operations; the caller supplies domain meaning.
 
